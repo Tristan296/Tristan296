@@ -4,4 +4,4 @@
 
 🌱 I’m currently studying Software Technology at Macquarie University.
 
-[![Tristan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tristan296)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tristan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tristan296&theme=github-compact)](https://github.com/tristan296/github-readme-activity-graph)
